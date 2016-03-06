@@ -1,3 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Icooon</string>
+    <string name="designer_name">Designer Name</string>
+    <string name="main_url">Web Site</string>
+    <string name="dribbble_url">Dribbble account</string>
+    <string name="twitter_name">\@twitter</string>
+    <string name="facebook_url">Facebook account</string>
 </resources>
